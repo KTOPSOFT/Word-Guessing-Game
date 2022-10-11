@@ -1,0 +1,60 @@
+Dog	Köpek	Šuo	Pies	Chien	Câine	Hund	Cachorro	Seh	Kutya	Perro	Mbwa	Hond	Hund	Pes	Cane	الكلب	Σκύλος	Собака	犬	狗	개	Куче
+Cat	Kedi	Katė	Kot	Chat	Pisică	Katze	Gato	Pisîk	Macska	Gato	Paka	Kat	Kat	Kočka	Gatto	قط	Γάτα	Кот	ネコ	貓	고양이	Котка
+Chicken	Tavuk	Vištiena	Kurczak	Poulet	Pui	Hähnchen	Frango	Mirîşk	Csirke	Pollo	Kuku	Hoender	Kylling	Kuře	Pollo	دجاج	Κοτόπουλο	Курица	チキン	雞	치킨	Пиле
+Cow	İnek	Karvė	Krowa	Vache	Vacă	Kuh	Vaca	Çêlek	Tehén	Vaca	Ng'ombe	Koei	Ko	Kráva	Mucca	بقرة	Αγελάδα	Корова	牛	牛	소	Крава
+Bird	Kuş	Paukštis	Ptak	Oiseau	Pasăre	Vogel	Pássaro	Teyr	Madár	Pájaro	Ndege	Voël	Fugl	Pták	Uccello	طائر	Πουλί	Птица	鳥	鳥	새	Птица
+Jacket	Ceket	Striukė	Kurtka	Veste	Sacou	Jacke	Jaqueta	Sako	Dzseki	Chaqueta	Koti	Baadjie	Jakke	Bunda	Giacca	السترة	Σακάκι	Куртка	ジャケット	夾克	재킷	Яке
+Food	Gıda	Maistas	Jedzenie	Nourriture	Alimente	Essen	Comida	Xûrek	Étel	Comida	Chakula	Kos	Mad	Jídlo	Cibo	طعام	Φαγητό	Еда	食物	餐飲	음식	Храна
+Tree	Ağaç	Medis	Drzewo	Arbre	Copac	Baum	Árvore	Dar	Fa	Árbol	Mti	Boom	Træ	Strom	Albero	شجرة	Δέντρο	Дерево	木	樹	나무	Дърво
+Box	Kutu	Dėžė	Pudełko	Boîte	Cutie	Box	Caixa	Qûtîk	Doboz	Caja	Sanduku	Boks	Boks	Krabice	Scatola	صندوق	Κουτί	Коробка	ボックス	框	상자	Кутия
+Brush	Fırça	Šepetys	Szczotka	Brosse	Perie	Bürste	Escova	Firçe	Kefe	Cepillo	Brashi	Kwas	Børste	Štětec	Spazzola	فرشاة	Βούρτσα	Щетка	みがきます	刷	브러시	Четка
+Cheese	Peynir	Sūris	Ser	Fromage	Brânză	Käse	Queijo	Penêr	Sajt	Queso	Jibini	Kaas	Ost	Sýr	Formaggio	جبنه	Τυρί	Сыр	チーズ	起司	치즈	Сирене
+Egg	Yumurta	Kiaušinis	jajko	Oeuf	Ou	Ei	Ovo	Hêk	Tojás	Huevo	Yai	Eier	æg	Vejce	Uovo	بيضة	Αυγό	Яйцо	卵	蛋	계란	Яйце
+Folder	Klasör	Aplankas	Teczka	Dossier	Dosar	Mappe	Pasta	Pêçek	Mappa	Carpeta	Folda	Map	Folder	Složka	Cartella	مجلد	Ντοσιέ	Папка	フォルダ	夾	폴더	Папка
+Tomato	Domates	Pomidoras	Pomidor	Tomate	Roșie	Tomate	Tomate	Bacanê sor	Paradicsom	Tomate	Nyanya	Tamatie	Tomat	Rajče	Pomodoro	طماطم	Ντομάτα	Помидор	トマト	番茄	토마토	Домат
+Train	Tren	Traukinys	Pociąg	Train	Tren	Zug	Trem	Tirên	Vonat	Tren	Treni	Trein	Tog	Vlak	Treno	قطار	Τρένο	Поезд	列車	培養	기차	Влак
+Scissors	Makas	Žirklės	Nożyce	Les ciseaux	Foarfece	Schere	Tesouras	Meqes	Olló	tijeras	Mikasi	'N Skêr	Saks	Nůžky	Forbici	مقص	Ψαλίδι	Ножницы	はさみ	剪刀	가위	Ножици
+Bicycle	Bisiklet	Dviratis	Rower	Bicyclette	Bicicleta	Fahrrad	Bicicleta	Bike	Bicikli	Bicicleta	Baiskeli	Fiets	Cykel	Kolo	Bicicletta	دراجة	Ποδήλατο	Велосипед	自転車	自行車	자전거	Велосипед
+Hospital	Hastane	Ligoninė	Szpital	Hôpital	Spital	Krankenhaus	Hospital	Nexweşxane	Kórház	Hospital	Hospitali	Hospitaal	Hospital	Nemocnice	Ospedale	مستشفى	Νοσοκομείο	Больница	病院	醫院	병원	Болница
+Pencil	Kalem	Pieštukas	Ołówek	Crayon	Creion	Bleistift	Lápis	Nivîstoka	Toll	Lápiz	Penseli	Potlood	Blyant	Tužka	Matita	قلم	Μολύβι	Карандаш	鉛筆	鉛筆	연필	Молив
+Headset	Kulaklık	Ausinės	Słuchawki	Écouteurs	Căști	Kopfhörer	Fones	Headset	Fejhallgató	Auriculares	Headset	Headset	Headset	Sluchátka	Auricolare	سماعة	Ακουστικό	Гарнитура	ヘッドセット	耳機	헤드폰	Слушалки
+Scale	Ölçek	Skalė	Skala	Échelle	Scară	Rahmen	Escala	Pîvan	Skála	Escala	Kiwango	Skaal	Aægt	Měřítko	Scala	مقياس	Κλίμακα	Шкала	規模	規模	규모	Мащаб
+Fish	Balık	Žuvis	Ryba	Poisson	Peşte	Fisch	Peixe	Masî	Hal	Pez	Samaki	Vis	Fisk	Ryba	Pesce	سمك	Ψάρι	Рыбы	魚	魚	물고기	Риба
+Lamp	Lamba	Lempa	Lampa	Lampe	Lampă	Lampe	Luminária	Çira	Lámpa	Lámpara	Taa	Lamp	Lampe	Svítilna	Lampada	مصباح	Λάμπα	Фонарь	ランプ	燈	램프	Лампа
+Hook	Kanca	Kablys	Hak	Crochet	Cârlig	Haken	Gancho	Çengel	Horog	Gancho	Ndoano	Haak	Krog	Háček	Gancio	صنارة صيد	Αγκιστρο	Крючок	針	鉤	훅	Кука
+Village	Köy	Kaimas	Wioska	Village	Sat	Dorf	Vila	Gûnd	Falu	Pueblo	Kijiji	Dorp	Landsby	Vesnice	Villaggio	قرية	Χωριό	Поселок	村	村	마을	Село
+House	Ev	Namas	Dom	Maison	Casă	Haus	Casa	Xanî	Ház	Casa	Nyumba	Huis	Hus	Dům	Casa	منزل	σπίτι	дом	家	屋	집	Къща
+Heater	Isıtıcı	Šildytuvas	Podgrzewacz	Chauffe-eau	Încălzitor	Heizung	Aquecedor	Germakir	Fűtés	Calentador	Hita	Verwarmer	Varmeapparat	Ohřívač	Riscaldatore	سخان	Θερμάστρα	Нагреватель	ヒータ	電暖器	히터	Нагревател
+Door	Kapı	Durys	Drzwi	Porte	Ușă	Tür	Porta	Derî	Ajtó	Puerta	Mlango	Deur	Dør	Dveře	Porta	باب	Θύρα	Дверь	ドア	門	문	Врата
+Bed	Yatak	Lova	Łóżko	Lit	Pat	Bett	Cama	Nivîn	Ágy	Cama	Kitanda	Bed	Seng	Postel	Letto	السرير	Κρεβάτι	Постель	ベッド	床	침대	Легло
+Towel	Havlu	Rankšluostis	Ręcznik	Serviette	Prosop	Handtuch	Toalha	Xewlî	Törülköző	Toalla	Kitambaa	Handdoek	Håndklæde	Ručník	Asciugamano	منشفة	Πετσέτα	Полотенце	タオル	毛巾	수건	Кърпа за баня
+Trash	Çöp	Šiukšliadėžė	Śmieci	Poubelle	Gunoi	Müll	Lixo	Zibil	Szemét	Basura	Takataka	Asblik	Affald	Odpadky	Spazzatura	قمامة	Γκάρμπα	Гарба	ガルバ	加爾巴	가르 바	Гарба
+Bus	Otobüs	Autobusas	Autobus	Autobus	Autobuz	Bus	Ônibus	Bas	Busz	Autobús	Basi	Bus	Bus	Autobus	Autobus	حافلة	Λεωφορείο	Автобус	バス	總線	버스	Автобус
+Cushion	Yastık	Pagalvėlė	Poduszka	Coussin	Amortiza	Kissen	Almofada	Tûr	Párna	Amortiguar	Mto	Kussing	Pude	Polštář	Cuscino	وسادة	Μαξιλάρι	Подушка	クッション	坐墊	방석	Възглавница
+Shoes	Ayakkabı	Avalynė	Buty	Chaussures	Pantofi	Schuhe	Sapatos	Shoes	Cipő	Zapatos	Viatu	Skoene	Sko	Obuv	Scarpe	أحذية	Παπούτσια	обувь	靴	鞋類	신발	Обувки
+Chair	Sandalye	Kėdė	Krzesło	Chaise	Scaun	Stuhl	Cadeira	Kûrsî	Szék	Silla	Mwenyekiti	Voorsitter	Stol	Židle	Sedia	كرسي	Καρέκλα	Стул	椅子	椅子	의자	Председател
+Police	Polis	Policija	Policja	Police	Politie	Polizei	Polícia	Pûlis	Rendőrség	Policía	Polisi	Polisie	Politi	Policie	Polizia	شرطة	Αστυνομία	Полиция	警察	警察	경찰	Полиция
+Hotel	Otel	Viešbutis	Hotel	Hôtel	Hotel	Hotel	Hotel	Ûtêl	Szálloda	Hotel	Hoteli	Hotel	Hotel	Hotel	Hotel	الفندق	Ξενοδοχειο	Отель	ホテル	旅館	호텔	Хотел
+Phone	Telefon	Telefonas	Telefon	Téléphone	Telefon	Telefon	Telefone	Telefon	Telefon	Teléfono	Simu	Foon	telefon	Telefon	Telefono	هاتف	Τηλέφωνο	Телефон	電話	電話	전화	Телефон
+Pot	Tencere	Puodas	Garnek	Pot	Oală	Topf	Panela	Beroş	Fazék	Maceta	Chungu	Pot	Gryde	Hrnec	Pot	وعاء	Δοχείο	Горшок	ポット	鍋	냄비	Пот
+Bees	Arılar	Bitės	Pszczoły	Les abeilles	Albine	Bienen	Abelhas	Bees	Méhek	Abejas	Nyuki	Bye	Bier	Včely	Ape	النحل	Μέλισσες	Пчелы	ミツバチ	蜜蜂	꿀벌	Пчели
+Bottle	Şişe	Butelis	Butelka	Bouteille	Sticla	Flasche	Garrafa	Şûşe	Üveg	Botella	Chupa	Bottel	Flaske	Láhev	Bottiglia	زجاجة	Μπουκάλι	Бутылка	ボトル	瓶子	병	Бутилка
+Oven	Fırın	Orkaitė	Piekarnik	Four	Cuptor	Ofen	Forno	Tenûr	Sütő	Horno	Tanuri	Oond	Ovn	Trouba	Forno	فرن	Φούρνος	Духовой шкаф	オーブン	烤箱	오븐	Фурна
+Lugagge	Bagaj	Bagažas	Bagaż	Bagages	Bagaj	Gepäck	Bagagem	Bar	Poggyász	Equipaje	Mizigo	Bagasie	Bagage	Zavazadlo	Bagaglio	أمتعة	Αποσκευές	Багаж	荷物	行李	수하물	Багаж
+Cherry	Kiraz	Vyšnia	Wiśnia	Cerise	Cireașă	Kirsche	Cereja	Qeresî	Cseresznye	Cereza	Cherry	Kersie	Kirsebær	Třešeň	Ciliegia	كرز	Κεράσι	вишня	チェリー	櫻桃	체리	Череша
+Apple	Elma	Obuolys	Jabłko	Pomme	Măr	Apfel	Maçã	Sêv	Alma	Manzana	Apple	Appel	Æble	Jablko	Mela	تفاحة	μήλο	яблоко	林檎	蘋果	사과	Apple
+Eye Glasses	Gözlük	Akiniai	Okulary	Des lunettes	Ochelari	Brille	Óculos	Berçavk	Szemüveg	Gafas	Miwani	Bril	Briller	Brýle	Bicchieri	نظارات	Γυαλιά	Очки	眼鏡	眼鏡	안경	Очила
+Fork	Çatal	Šakutė	Widelec	Fourchette	Furculiţă	Gabel	Garfo	Milêvdanî	Villa	Tenedor	Uma	Vurk	Gaffel	Vidlička	Forchetta	فرع	Πιρούνι	Вилка	フォーク	叉子	포크	Вилица
+Stamp	Pul	Antspaudas	Znaczek	Timbre	Timbru	Stempel	Carimbo	Mor	Bélyeg	Sello	Muhuri	Seël	Frimærke	Razítko	Francobollo	ختم	Σφραγίδα	Печать	切手	郵票	우표	Печат
+Glove	Eldiven	Pirštinė	Rękawica	Gant	Mănușă	Handschuh	Luva	Lepik	Kesztyű	Guante	Pamba	Handschoen	Handske	Rukavice	Guanto	قفاز	Γάντι	Перчатка	グローブ	手套	장갑	Ръкавица
+Money	Para	Pinigai	Pieniądze	Argent	Bani	Geld	Dinheiro	Dirav	Pénz	Dinero	Pesa	Geld	Penge	Peníze	Soldi	مال	Χρήματα	Деньги	お金	錢	돈	Пари
+Key	Anahtar	Raktas	Klucz	Clé	Cheie	Schlüssel	Chave	Qûfle	Kulcs	Llave	Muhimu	Sleutel	Nøgle	Klíč	Chiave	مفتاح	Κλειδί	Ключ	キー	鍵	키	Ключ
+Umbrella	Şemsiye	Skėtis	Parasol	Parapluie	Umbrelă	Regenschirm	Guarda-chuva	Sîdank	Esernyő	Paraguas	Mwavuli	Sambreel	Paraply	Deštník	Ombrello	مظلة	Ομπρέλα	Зонтик	傘	雨傘	우산	Чадър
+Button	Buton	Mygtukas	Przycisk	Bouton	Buton	Taste	Botão	Pişkov	Gomb	Botón	Kitufe	Knoppie	Knap	Knoflík	Pulsante	زر	Κουμπί	Кнопка	ボタン	鈕扣	단추	Бутон
+Lighter	Çakmak	Lengvesnis	Zapalniczka	Plus léger	Mai usoara	Feuerzeug	Mais leve	Heste	Öngyújtó	Encendedor	Nyepesi	Ligter	Lettere	Zapalovač	Accendino	ولاعة	Αναπτήρας	Легче	ライター	打火機	거룻배	Запалка
+Purse	Çanta	Piniginė	Portmonetka	Bourse	Pungă	Geldbörse	Bolsa	Tûrikê diravan	Pénztárca	Bolso	Mkoba	Beursie	Pung	Peněženka	Borsa	كيس نقود	Πορτοφόλι	Кошелек	財布	錢包	지갑	Портмоне
+Spoon	Kaşık	Šaukštas	Łyżka	Cuillère	Linguriţă	Löffel	Colher	Kevçî	Kanál	Cuchara	Kijiko	Skep	Ske	Lžíce	Cucchiaio	ملعقة	Κουτάλι	Ложка	スプーン	勺	숟가락	Лъжица
+City	Kent	Miestas	Miasto	Ville	Oraș	Stadt	Cidade	Bajar	Város	Ciudad	Jiji	Stad	By	Město	Città	مدينة	Πόλη	город	市	市	시티	Град
+Mountain	Dağ	Kalnas	Góra	Montagne	Munte	Berg	Montanha	Çîya	Hegy	Montaña	Mlima	Berg	Bjerg	Hora	Montagna	الجبل	Βουνό	Гора	山	山	산	планина
+Shirt	Gömlek	Marškiniai	Koszula	Chemise	Cămaşă	Hemd	Camisa	Berdilk	Ing	Camisa	Shati	Hemp	Skjorte	Košile	Camicia	قميص	Πουκάμισο	Рубашка	シャツ	襯衫	셔츠	Риза
+Pants	Pantolon	Kelnės	Spodnie	Pantalon	Pantaloni	Hose	Calça	Derpî	Nadrág	Pantalones	Suruali	Broek	Bukser	Kalhoty	Pantaloni	بنطال	Παντελόνι	Штаны	パンツ	褲子	바지	Панталони
